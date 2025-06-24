@@ -31,13 +31,6 @@ pip install pytesseract transformers scikit-learn joblib opencv-python-headless
 4-TF-IDF vectorization
 5-SVM predicts the labels
 
-📂 Project Structure
--- app.py                # Main application script (optional for Flask)
--- model_logic.py        # Preprocessing, prediction functions
--- multi_label_svm_model.pkl
--- tfidf_vectorizer.pkl
--- train.csv             # Dataset
--- README.md             # You're here!
 
 📊 Results
 Multi-label accuracy: 91%
